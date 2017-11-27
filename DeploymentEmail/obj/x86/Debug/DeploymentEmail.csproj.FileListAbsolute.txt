@@ -1,0 +1,5 @@
+Z:\new_VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\bin\Debug\DeploymentEmail.exe
+Z:\new_VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\bin\Debug\DeploymentEmail.pdb
+Z:\new_VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\new_VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\obj\x86\Debug\DeploymentEmail.exe
+Z:\new_VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\obj\x86\Debug\DeploymentEmail.pdb

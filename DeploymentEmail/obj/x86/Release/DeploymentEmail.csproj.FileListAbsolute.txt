@@ -1,0 +1,15 @@
+Z:\new_VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\bin\Release\DeploymentEmail.exe
+Z:\new_VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\bin\Release\DeploymentEmail.pdb
+Z:\new_VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\obj\x86\Release\ResolveAssemblyReference.cache
+Z:\new_VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\obj\x86\Release\DeploymentEmail.exe
+Z:\new_VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\obj\x86\Release\DeploymentEmail.pdb
+Z:\VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\obj\x86\Release\DeploymentEmail.exe
+Z:\VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\obj\x86\Release\DeploymentEmail.pdb
+Z:\VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\bin\Release\DeploymentEmail.exe
+Z:\VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\bin\Release\DeploymentEmail.pdb
+Z:\VM_Shared\Stuff\Deployment_Email\DeploymentEmail\DeploymentEmail\obj\x86\Release\ResolveAssemblyReference.cache
+Z:\Coding\Projects\Deployment_Email\DeploymentEmail\DeploymentEmail\bin\Release\DeploymentEmail.exe
+Z:\Coding\Projects\Deployment_Email\DeploymentEmail\DeploymentEmail\bin\Release\DeploymentEmail.pdb
+Z:\Coding\Projects\Deployment_Email\DeploymentEmail\DeploymentEmail\obj\x86\Release\DeploymentEmail.csprojResolveAssemblyReference.cache
+Z:\Coding\Projects\Deployment_Email\DeploymentEmail\DeploymentEmail\obj\x86\Release\DeploymentEmail.exe
+Z:\Coding\Projects\Deployment_Email\DeploymentEmail\DeploymentEmail\obj\x86\Release\DeploymentEmail.pdb
